@@ -1,1 +1,2 @@
-# WOW-Classes
+# WOW Classes
+Chase Reed
